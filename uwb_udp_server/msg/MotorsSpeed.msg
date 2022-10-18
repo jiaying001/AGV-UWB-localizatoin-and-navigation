@@ -1,0 +1,9 @@
+float32 command_left_wheel_speed
+float32 command_right_wheel_speed
+float32 current_left_wheel_speed
+float32 current_right_wheel_speed
+float32 current_left_motor_speed_rpm
+float32 current_right_motor_speed_rpm
+float32 error_left_wheel_speed
+float32 error_right_wheel_speed
+
