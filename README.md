@@ -1,6 +1,7 @@
-# AGV-UWB-localizatoin-and-navigation-
-Indoor agv localization and navigation with DW1000 UWB transceiver. Laser sensor is used for obstacles avoidance. 
+# AGV-UWB-localizatoin-and-navigation
+This is a ROS package for indoor agv localization and navigation based on DW1000 UWB transceiver. Laser sensor is used for obstacles avoidance. 
 
+这是一个基于UWB无人车室内定位的ROS包。 用到了激光雷达作为避障检测。
 ## Hardware
 - D-DWM-PG2.5 UWB transceiver developed from decaWave DW1000 chip
 
