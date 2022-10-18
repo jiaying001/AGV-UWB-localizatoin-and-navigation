@@ -12,5 +12,11 @@ This is a ROS package for indoor agv localization and navigation based on DW1000
 - Lidar (Hokuyo scanning laser UTM-30LX)
 
 ## Overall system architecture block diagram
+
 Installation of UWB coordinating system on ROS across two UP boards
+
 ![Overall system architecture block diagram](https://github.com/jiaying001/AGV-UWB-localizatoin-and-navigation/blob/main/images/Overall%20system%20architecture%20block%20diagram.png)
+
+Hardware setup on Pioneer3AT mobile robot
+
+![Hardware setup on Pioneer3AT mobile robot](https://github.com/jiaying001/AGV-UWB-localizatoin-and-navigation/blob/main/images/Hardware%20setup%20on%20Pioneer3AT%20mobile%20robot.png)
