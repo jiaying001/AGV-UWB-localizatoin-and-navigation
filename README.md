@@ -20,3 +20,9 @@ Installation of UWB coordinating system on ROS across two UP boards
 Hardware setup on Pioneer3AT mobile robot
 
 ![Hardware setup on Pioneer3AT mobile robot](https://github.com/jiaying001/AGV-UWB-localizatoin-and-navigation/blob/main/images/Hardware%20setup%20on%20Pioneer3AT%20mobile%20robot.png)
+
+Potential field method
+![potential_field_method](https://github.com/jiaying001/AGV-UWB-localizatoin-and-navigation/blob/main/images/potential_field_method.png)
+
+uwb_target_pathtracking
+![uwb_target_pathtracking](https://github.com/jiaying001/AGV-UWB-localizatoin-and-navigation/blob/main/images/uwb_target_pathtracking.png)
